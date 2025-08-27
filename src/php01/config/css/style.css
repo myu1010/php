@@ -1,0 +1,14 @@
+h1 {
+    color: #ff008b;
+    text-shadow: 2px 2px 4px #000;
+}
+p{
+    color: #ff008b;
+    font-size: x-large;
+}
+th {
+    background-color: #f7f7f7;
+}
+td {
+    background-color: #feffd2;
+}
